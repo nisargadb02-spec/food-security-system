@@ -34,4 +34,3 @@ This project explores:
 
 ---
 
-## 📁 Project Structure
